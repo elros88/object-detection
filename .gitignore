@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.student_bashrc
+__pycache__/
+data/
