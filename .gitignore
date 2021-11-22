@@ -2,3 +2,4 @@
 .student_bashrc
 __pycache__/
 data/
+/experiments/pretrained_model/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8
