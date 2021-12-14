@@ -3,3 +3,12 @@
 __pycache__/
 data/
 /experiments/pretrained_model/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8
+experiments/experiment*/reference/checkpoint
+experiments/experiment*/reference/ckpt*
+experiments/experiment*/reference/eval/
+experiments/experiment*/reference/train/
+experiments/reference/ckpt*
+experiments/reference/checkpoint
+experiments/reference/eval/
+experiments/reference/exported/
+experiments/reference/train/
