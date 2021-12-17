@@ -10,6 +10,8 @@ basic concept of object detection using Tensorflow. In the project we:
 
 In order to fulfil these goals we use Jupyter Notebook, Tensorflow library, and the Tensorboard tool.
 
+This project is hosted in [this Github repository](https://github.com/elros88/object-detection)
+
 ## Dataset
 
 We use the ***Waymo dataset*** for this project, In the dataset we identify the type of data
